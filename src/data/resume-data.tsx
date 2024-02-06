@@ -177,8 +177,8 @@ export const RESUME_DATA = {
       description:
         "Join a community of engineering, design, product and UX experts. Watch and discuss talks. Get involved with a community. Share your ideas.",
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "techtalks.io",
+        href: "https://techtals.io/",
       },
     },
     {
