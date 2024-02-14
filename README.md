@@ -18,6 +18,12 @@ Currently, I work mostly with Ruby, TypeScript and React Native. However, over m
 
 Built a high-performing and happy team of engineers to build a platform for online learning with courses from the world's greatest minds. Technologies: Ruby on Rails, Stimulus.js, ViewComponent, Turbo, TypeScript, React Native, GraphQL.
 
+### Carescribe - Hybrid - Jan 2021 - Nov 2021
+
+**Senior Ruby & JavaScript Developer**
+
+During my time with the team at Carescribe, I worked alongside the CTO to help define the company's engineering practices and project planning and tracking tools. Furthermore, I worked on and built many parts of the Carescribe platform. This included the transcoding service, auto-summarisation AI tooling, infrastructure, a note-taking tool, a partner portal, and mobile/browser/desktop applications.
+
 ### TechTalks.io - Founder - May 2020 - Present
 
 **Director**

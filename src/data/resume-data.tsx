@@ -52,6 +52,16 @@ export const RESUME_DATA = {
         "Built a high-performing and happy team of engineers to build a platform for online learning with courses from the world's greatest minds. Technologies: Ruby on Rails, Stimulus.js, ViewComponent, Turbo, TypeScript, React Native, GraphQL.",
     },
     {
+      company: "Carescribe",
+      link: "https://carescribe.io/",
+      badges: ["Contract", "Hybrid"],
+      title: "Senior Ruby & JavaScript Engineer",
+      start: "Jan 2021",
+      end: "Nov 2021",
+      description:
+        "During my time with the team at Carescribe, I worked alongside the CTO to help define the company's engineering practices, project planning, tracking tools and supproted with hiring. Furthermore, I worked on and built many parts of the Carescribe platform. This included the transcoding service, auto-summarisation AI tooling, infrastructure, a note-taking tool, a partner portal, and mobile/browser/desktop applications.",
+    },
+    {
       company: "TechTalks.io",
       link: "https://techtalks.io/",
       badges: ["Founder"],
