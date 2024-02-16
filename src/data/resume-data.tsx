@@ -59,7 +59,7 @@ export const RESUME_DATA = {
       start: "Jan 2021",
       end: "Nov 2021",
       description:
-        "During my time with the team at Carescribe, I worked alongside the CTO to help define the company's engineering practices, project planning, tracking tools and supproted with hiring. Furthermore, I worked on and built many parts of the Carescribe platform. This included the transcoding service, auto-summarisation AI tooling, infrastructure, a note-taking tool, a partner portal, and mobile/browser/desktop applications.",
+        "During my time with the team at Carescribe, I worked alongside the CTO to help define the company's engineering practices, project planning and tracking tools and supported with hiring. Furthermore, I worked on and built many parts of the Carescribe platform. This included the transcribing service, auto-summarisation AI tooling, infrastructure, a note-taking tool, a partner portal, and mobile/browser/desktop applications.",
     },
     {
       company: "TechTalks.io",
