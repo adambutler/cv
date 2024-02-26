@@ -116,8 +116,8 @@ export const RESUME_DATA = {
       link: "https://duoboots.com/",
       badges: [],
       title: "Web Designer & Development Co-ordinator",
-      start: "Apr 2018",
-      end: "Jul 2020",
+      start: "Aug 2010",
+      end: "Feb 2012",
       description:
         "I worked as a web developer building highly bespoke campaign tooling for an e-commerce company.",
     },

@@ -54,7 +54,7 @@ I built an innovative developer centre with rich documentation and interactive A
 
 I worked as a full-stack developer at Simpleweb. A purpose-driven software agency that specialises in new technologies, product development, and human interaction.
 
-### Duo - Apr 2018 - Jul 2020
+### Duo - Aug 2010 - Feb 2012
 
 **Web Designer & Development Co-ordinator**
 I worked as a web developer building highly bespoke campaign tooling for an e-commerce company.
